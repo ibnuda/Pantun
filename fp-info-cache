@@ -1,4 +1,4 @@
-20078482119386128
+20081771837430931
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84805,6 +84805,13 @@ diode
 2
 2
 footprints
+diode-sod-123
+SOD-123
+SOD-123
+0
+2
+2
+footprints
 diode-tht-smd
 
 
@@ -85361,6 +85368,13 @@ rick-kicad-footprints
 diode
 
 
+0
+2
+2
+rick-kicad-footprints
+diode-sod-123
+SOD-123
+SOD-123
 0
 2
 2
